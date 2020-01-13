@@ -1,0 +1,54 @@
+1.	Добыть книгу Хорстманн К., Корнелл Г. - Java. Библиотека профессионала. Том 1. Основы  или Блох Дж. Java Эффективное программирование 
+
+2.	Установить SDK (software development kit) 
+
+•	Установить JDK 8 для вашей ОС. http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+•	Установить среду разработку IntelliJ Idea Community Edition http://www.jetbrains.com/idea/download/
+•	Создать любой проект(HelloWorld).   
+
+3.	Зарегистрироваться на https://github.com
+
+4.	Зарегистрироваться на сайте http://acm.sgu.ru/lang/register2.php.
+Log BCWP
+Решить как минимум по одной задаче из разделов (лучше больше):
+•         Ветвления, циклы
+•         Массивы
+•         Строки
+Автоматическая система проверки решений проверяет checkstyle (правила именования классов, переменных, отступы).  
+Чтобы автоматически сделать правильные отступы в Idea нажмите cntl+alt+L (для Windows).  
+
+Пример решения задачи 2002 на Java:
+import java.util.Scanner;
+ 
+public class Solution {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+ 
+        int count = scanner.nextInt();
+        int sum = 0;
+        for (int i = 0; i < count; i++) {
+            sum += scanner.nextInt();
+        }
+ 
+        System.out.println(sum);
+    }
+}
+ 
+Неправильный стиль:
+public class Solution {
+  public static void main(String[] args)
+  { // скобка должна быть выше
+ 
+      // неправильное количество отступов 
+          Scanner scanner = new Scanner(System.in);
+ 
+ 
+     int count=scanner.nextInt(); // нет пробелов до и после =
+        int Sum = 0; //переменная должна начинаться с маленькой буквы 
+          for (int i=0;i<count; i++) { // нет пробелов между =;< и ид<br/>                    
+  Sum += scanner.nextInt();
+        }
+ 
+        System.out.println(Sum);
+    }
+}

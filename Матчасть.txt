@@ -1,0 +1,39 @@
+Туториалы:
+BEGINNER:   http://myflex.org/books/java4kids/java4kids.htm
+            https://www.udacity.com/course/intro-to-java-programming--cs046
+            https://www.udacity.com/course/java-programming-basics--ud282
+            http://mooc.fi/english.html
+MEDIUM:     http://www.tutorialspoint.com/java_technology_tutorials.htm
+HARD:       http://docs.oracle.com/javase/tutorial/
+
+
+Книги:
+            http://www.proklondike.com/books/java.html
+Видео:
+            https://habrahabr.ru/company/golovachcourses/blog/215275/ 1000+ часов видео по Java на русском.
+
+Практика, больше практики.
+Уровня laba1.pas: 
+            http://codingbat.com/java
+            http://codehunt.com
+Чутка серьезнее: 
+            http://programmr.com/zone/java
+            http://codingame.com/puzzles
+Рулеточка:  http://postimg.org/image/xdfbvgps9/
+Олимпиадка: http://codeforces.com
+Примеры той-проектов: http://eax.me/programming-language-learning/
+
+Проверь свои знания здесь:
+            http://www.quizful.net/test
+            http://www.careercup.com/
+
+Вопросы на собеседование:
+            http://jsehelper.blogspot.ru/2016/01/blog-post_59.html 
+            http://becomejavasenior.com/blog/2015/07/01/327-interview-questions-java-developer/
+
+Какие еще ресурсы можно почитать:
+https://android-arsenal.com/ ##android
+https://google.github.io/styleguide/javaguide.html ## google java style
+http://blog.jooq.org/ ## Java, SQL, and jOOQ
+http://virtualjug.com/podcast/ ## подкасты
+https://stepik.org/course/146/
